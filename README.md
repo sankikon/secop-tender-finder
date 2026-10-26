@@ -5,6 +5,8 @@ website makes you search one process at a time. This script pulls every
 process that matches a keyword from Colombia's open data portal and drops
 them into a spreadsheet you can filter in Excel.
 
+![Sample of the exported spreadsheet](preview.png)
+
 ## What you get
 
 A CSV with one row per process: publish date, government entity, city,
